@@ -49,5 +49,5 @@ Please edit the torrenttv/tortvconfig.py and change the following properties:
 * TorTVConfig.login - Your login in Torrent-TV service
 * TorTVConfig.password - Your password in Torrent-TV service
 
-Then you can point your player to the URL of the form http://proxy_host:proxy_port/playlist/xml or
-http://proxy_host:proxy_port/playlist/m3u depending of the playlist format you want to retrieve.
+Then you can point your player to the URL of the form http://proxy_host:proxy_port/tortvplaylist/xml or
+http://proxy_host:proxy_port/tortvplaylist/m3u depending of the playlist format you want to retrieve.
